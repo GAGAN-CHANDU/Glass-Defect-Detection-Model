@@ -23,8 +23,9 @@ This Streamlit-based web application detects defects in glass using a pre-traine
 ## 🔧 Setup & Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/glass-defect-detection.git
-   cd glass-defect-detection
+   git clone https://github.com/GAGAN-CHANDU/Glass-Defect-Detection-Model.git
+   cd Glass-Defect-Detection-Model
+
    ```
 2. Install dependencies:
    ```sh
